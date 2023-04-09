@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "ProductId": 12233,
+      "ProductName": "ddd",
+      "CategoryName": "ddds",
+      "CategoryId": "23ed",
+      "id": 1
+    },
+    {
+      "ProductId": 323445454,
+      "ProductName": "dsadDAD",
+      "CategoryName": "DSsdsdSD",
+      "CategoryId": "2`33`2WSWS",
+      "id": 2
+    },
+    {
+      "ProductId": 23,
+      "ProductName": "DWDWD",
+      "CategoryName": "SDDSd",
+      "CategoryId": "qd333wdwd",
+      "id": 3
+    },
+    {
+      "ProductId": 23,
+      "ProductName": "DWDWD",
+      "CategoryName": "SDDSd",
+      "CategoryId": "qd333wdwd",
+      "id": 4
+    }
+  ]
+}
